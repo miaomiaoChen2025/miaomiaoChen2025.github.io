@@ -70,14 +70,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-wuhan-university-china-school-of-information-management-master-and-phd-in-information-science-score-level-a",
-          title: 'Wuhan University, China School of Information Management Master and PhD in Information Science...',
-          description: "",
-          section: "News",},{id: "news-nanyang-technological-university-singapore-wee-kim-wee-school-of-communication-and-information-jointly-trained-doctoral-student-sponsored-by-chinese-scholarship-council",
-          title: 'Nanyang Technological University, Singapore Wee Kim Wee School of Communication and Information Jointly...',
+          section: "News",},{id: "news-school-of-information-management-wuhan-university-master-and-phd-in-information-science",
+          title: 'School of Information Management, Wuhan University. Master and PhD in Information Science.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
