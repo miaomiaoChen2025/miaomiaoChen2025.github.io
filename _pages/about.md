@@ -27,9 +27,6 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 0 # leave blank to include all the blog posts
 ---
-
-Miaomiao Chen (陈苗苗) is currently an assistant professor at the Ceter for Computational Communication Research, Jinan University, Guangzhou. She graduated from School of Information Management, Wuhan University with a bachelor’s degree and a PhD degree on Management, advised by [Lu An (安璐)](https://simjwz.whu.edu.cn/info/1050/4936.htm). 
-
 Miaomiao Chen (陈苗苗) is currently an Assistant Professor at the Center for Computational Communication Research, Jinan University, Guangzhou. Her research intersts includes social media analysis, user behavior, crisis informatics, and  knowledge management. She have published 10+ papers in SSCI/CSSCI/EI-indexed journals such as Internet Research and Information Technology & People.
 
 She received both her Bachelor's and Ph.D. degrees in Management from the School of Information Management, Wuhan University, under the supervision of [Prof. Lu An (安璐)](https://simjwz.whu.edu.cn/info/1050/4936.htm). During her Ph.D. studies, she was funded by the China Scholarship Council (CSC) to conduct a joint training program at the Wee Kim Wee School of Communication and Information, Nanyang Technological University (Singapore), under the supervision of [Prof. Alton Chua](https://www.ntu.edu.sg/research/faculty-directory/detail/Alton-Chua-Yeow-Kuan).
