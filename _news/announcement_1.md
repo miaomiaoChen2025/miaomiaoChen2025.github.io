@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-School of Information Management, Wuhan University.<br>
-Master and PhD in Information Science.
+School of Information Management, Wuhan University<br>
+Master and PhD in Information Science
