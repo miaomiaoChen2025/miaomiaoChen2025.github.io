@@ -74,7 +74,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-school-of-information-management-wuhan-university-master-and-phd-in-information-science",
-          title: 'School of Information Management, Wuhan University.  Master and PhD in Information Science.',
+          title: 'School of Information Management, Wuhan University  Master and PhD in Information Science',
           description: "",
           section: "News",},{id: "news-nanyang-technological-university-singapore-wee-kim-wee-school-of-communication-and-information-jointly-trained-doctoral-student-sponsored-by-chinese-scholarship-council",
           title: 'Nanyang Technological University, Singapore Wee Kim Wee School of Communication and Information Jointly...',
