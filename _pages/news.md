@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-permalink: /news/
+permalink: /education/
 ---
 
 {% include news.liquid %}
