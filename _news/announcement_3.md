@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015.09 - 2019.06
+date: "2015.09 - 2019.06"
 inline: true
 related_posts: false
 ---
