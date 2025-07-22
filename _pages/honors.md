@@ -11,8 +11,8 @@ nav_order: 6
 ### 🏆 Academic and Competition Awards
 
 1. 2023 ASIS&T Social Media Research Competition Runner-up Award, ASIST SIG Social Media  
-2. 2022 First Prize in “Huawei Cup” 19th China Postgraduate Mathematical Contest in Modeling, Association of Chinese Graduate Education (As a team leader, <span style="font-weight: bold; font-size: 1.1em; color: #d9534f;">Rank: 7/9263</span>)  
-3. 2021 First Prize in “Huawei Cup” 18th China Postgraduate Mathematical Contest in Modeling, Association of Chinese Graduate Education (As a team leader, <span style="font-weight: bold; font-size: 1.1em; color: #d9534f;">Rank: 3/8400</span>)  
+2. 2022 First Prize in “Huawei Cup” 19th China Postgraduate Mathematical Contest in Modeling, Association of Chinese Graduate Education (As a team leader, <span style="font-weight: bold; font-size: 1.1em; color: var(--global-theme-color);">Rank: 7/9263</span>)  
+3. 2021 First Prize in “Huawei Cup” 18th China Postgraduate Mathematical Contest in Modeling, Association of Chinese Graduate Education (As a team leader, <span style="font-weight: bold; font-size: 1.1em; color: var(--global-theme-color);">Rank: 3/8400</span>)  
 4. 2020 Third Prize in “Huawei Cup” 17th China Postgraduate Mathematical Contest in Modeling  
 5. 2020 Third Prize in the 7th Midwest Foreign Language Translation Competition for Non-English Majors
 
@@ -53,8 +53,8 @@ nav_order: 6
 ### 🏆 学术及竞赛获奖情况
 
 - 2023 Association for Information Science and Technology (ASIS&T) 社交媒体研究竞赛 亚军奖  
-- 2022 华为杯中国研究生数学建模竞赛 全国一等奖（队长，<span style="font-weight: bold; font-size: 1.1em; color: #d9534f;">7/9263</span>）  
-- 2021 华为杯中国研究生数学建模竞赛 全国一等奖（队长，<span style="font-weight: bold; font-size: 1.1em; color: #d9534f;">3/8400</span>）  
+- 2022 华为杯中国研究生数学建模竞赛 全国一等奖（队长，<span style="font-weight: bold; font-size: 1.1em; color: var(--global-theme-color);">7/9263</span>）  
+- 2021 华为杯中国研究生数学建模竞赛 全国一等奖（队长，<span style="font-weight: bold; font-size: 1.1em; color: var(--global-theme-color);">3/8400</span>）  
 - 2020 华为杯中国研究生数学建模竞赛 全国三等奖  
 - 2020 第七届全国非英语专业大学生外语翻译大赛 三等奖
 
