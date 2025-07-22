@@ -11,11 +11,11 @@ profile:
   more_info: >
     <p>Assistant Professor</p>
     <p>Center for Computational Communication Research</p><br>
-    <p>Jinan University</p>
+    <p>Jinan University</p><br>
     <p>Guangzhou 511443, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: True # includes a list of news items
