@@ -27,12 +27,12 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 1 # leave blank to include all the blog posts
 ---
-Miaomiao Chen (陈苗苗) is currently an Assistant Professor at the Center for Computational Communication Research, Jinan University, Guangzhou. Her research intersts include social media analysis, user behavior, crisis informatics, and  knowledge management. She have published 10+ papers in SSCI/CSSCI/EI-indexed journals such as Internet Research and Information Technology & People.
+ <span style="font-weight: bold; font-size: 1.1em; color: var(--global-theme-color);">Miaomiao Chen (陈苗苗)</span>) is currently an Assistant Professor at the Center for Computational Communication Research, Jinan University, Guangzhou. Her research intersts include social media analysis, user behavior, crisis informatics, and  knowledge management. She have published 10+ papers in SSCI/CSSCI/EI-indexed journals such as Internet Research and Information Technology & People.
 
 She received both her Bachelor's and Ph.D. degrees in Management from the School of Information Management, Wuhan University, under the supervision of [Prof. Lu An (安璐)](https://simjwz.whu.edu.cn/info/1050/4936.htm). During her Ph.D. studies, she was funded by the China Scholarship Council (CSC) to conduct a joint training program at the Wee Kim Wee School of Communication and Information, Nanyang Technological University (Singapore), under the supervision of [Prof. Alton Chua](https://www.ntu.edu.sg/research/faculty-directory/detail/Alton-Chua-Yeow-Kuan).
 
 If you are interested in collaboration or further information, feel free to contact me.<br>
 📬 **Email:**  
-- [chenmiaomiao@jnu.edu.cn](mailto:chenmiaomiao@jnu.edu.cn)  
-- [chenmiaomiao2020@foxmail.com](mailto:chenmiaomiao2020@foxmail.com)
+- <span style="font-weight: bold; color: var(--global-theme-color);">[chenmiaomiao@jnu.edu.cn](mailto:chenmiaomiao@jnu.edu.cn) </span>) 
+- <span style="font-weight: bold; color: var(--global-theme-color);">[chenmiaomiao2020@foxmail.com](mailto:chenmiaomiao2020@foxmail.com) </span>) 
 
