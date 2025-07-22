@@ -16,7 +16,6 @@ nav_order: 6
 4. 2020 Third Prize in “Huawei Cup” 17th China Postgraduate Mathematical Contest in Modeling  
 5. 2020 Third Prize in the 7th Midwest Foreign Language Translation Competition for Non-English Majors
 
----
 
 ### 🎓 Scholarship Awards
 
@@ -29,7 +28,6 @@ nav_order: 6
 7. 2019 Second Prize in Postgraduate Freshman Scholarship, Wuhan University  
 8. 2018 Lei Jun Scholarship, Wuhan University
 
----
 
 ### 🏅 Honorary Titles
 
@@ -60,7 +58,6 @@ nav_order: 6
 - 2020 华为杯中国研究生数学建模竞赛 全国三等奖  
 - 2020 第七届全国非英语专业大学生外语翻译大赛 三等奖
 
----
 
 ### 🎓 奖学金获奖情况
 
@@ -74,7 +71,6 @@ nav_order: 6
 - 2019 武汉大学研究生新生奖学金二等奖  
 - 2018 武汉大学雷军奖学金
 
----
 
 ### 🏅 荣誉称号
 
