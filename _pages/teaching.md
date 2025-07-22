@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /honorsAndawards/
 title: Honors and Awards
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
