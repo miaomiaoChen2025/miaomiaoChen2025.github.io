@@ -79,7 +79,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-school-of-information-management-wuhan-university-master-and-phd-in-information-science",
-          title: 'School of Information Management, Wuhan University..  Master and PhD in Information Science.',
+          title: 'School of Information Management, Wuhan University.  Master and PhD in Information Science.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
