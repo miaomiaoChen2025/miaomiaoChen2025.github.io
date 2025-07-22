@@ -5,5 +5,6 @@ inline: true
 related_posts: false
 ---
 
-School of Information Management, Wuhan University<br>
-Master and PhD in Information Science
+Wuhan University, China <br>
+School of Information Management <br>
+Master and PhD in Information Science (Score Level: A)
