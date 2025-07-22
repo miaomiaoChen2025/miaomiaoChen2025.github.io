@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Assistant Professor</p>
-    <p>Center for Computational Communication Research/p>
+    <p>Center for Computational Communication Research</p><br>
     <p>Jinan University</p>
     <p>Guangzhou 511443, China</p>
 
