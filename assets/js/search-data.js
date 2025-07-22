@@ -35,11 +35,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-wuhan-university-china-school-of-information-management-master-and-phd-in-information-science-score-level-a",
-          title: 'Wuhan University, China School of Information Management Master and PhD in Information Science...',
-          description: "",
-          section: "News",},{id: "news-wuhan-university-china-school-of-information-management-bachelor-of-management-majored-in-information-management-and-information-system-gpa-3-84-4-0-majored-in-information-management-and-information-system-at-entrepreneurship-school-gpa-3-84-4-0",
+            },},{id: "news-wuhan-university-china-school-of-information-management-bachelor-of-management-majored-in-information-management-and-information-system-gpa-3-84-4-0-majored-in-information-management-and-information-system-at-entrepreneurship-school-gpa-3-84-4-0",
           title: 'Wuhan University, China School of Information Management Bachelor of Management Majored in information...',
+          description: "",
+          section: "News",},{id: "news-wuhan-university-china-school-of-information-management-master-and-phd-in-information-science-score-level-a",
+          title: 'Wuhan University, China School of Information Management Master and PhD in Information Science...',
           description: "",
           section: "News",},{id: "news-nanyang-technological-university-singapore-wee-kim-wee-school-of-communication-and-information-jointly-trained-doctoral-student-sponsored-by-chinese-scholarship-council",
           title: 'Nanyang Technological University, Singapore Wee Kim Wee School of Communication and Information Jointly...',
