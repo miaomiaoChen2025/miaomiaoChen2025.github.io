@@ -34,8 +34,6 @@ nav_order: 7
 ---
 ## 🤝 Research Team Member
 
-## 🤝 Research Team Member
-
 | Duration       | Details |
 |----------------|---------|
 | Jan 2022 – Present | **NSFC General Program**<br>*Research on Identification and Intervention Methods of Disordered Network Information Dissemination in Crisis Situations*<br>Grant No.: 72174153 |
