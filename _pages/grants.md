@@ -32,7 +32,9 @@ nav_order: 7
 | Jan 2025 – Present | **Fundamental Research Funds for the Central Universities**<br>Grant No.: 12625611<br>Funding: ¥100,000<br>Role: Principal Investigator |
 
 <hr>
+
 <br>
+
 ## 🤝 Research Team Member
 
 | **Duration**       | **Details** |
