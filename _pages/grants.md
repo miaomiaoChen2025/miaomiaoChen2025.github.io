@@ -32,16 +32,16 @@ nav_order: 7
 | Jan 2025 – Present | **Fundamental Research Funds for the Central Universities**<br>Grant No.: 12625611<br>Funding: ¥100,000<br>Role: Principal Investigator |
 
 <hr>
-
+<br>
 ## 🤝 Research Team Member
 
 | **Duration**       | **Details** |
 |--------------------|-------------|
-| Jan 2022 – Present | **NSFC General Program**<br>*Research on Identification and Intervention Methods of Disordered Network Information Dissemination in Crisis Situations*<br>Grant No.: 72174153 |
-| Dec 2023 – Present | **Major Project of National Social Science Fund of China**<br>*Resilient Social Intelligence Support and Decision-making under Uncertain Environments*<br>Grant No.: 23&ZD230 |
-| Jan 2020 – Dec 2024 | **NSFC Innovation Research Group Project**<br>*Information Resource Management*<br>Grant No.: 71921002 |
-| Jan 2018 – Dec 2022 | **NSFC Major Project**<br>*National Security Big Data Comprehensive Information Integration and Analysis Methods*<br>Grant No.: 71790612 |
-| Sep 2019 – Dec 2020 | **Ministry of Education Philosophy and Social Sciences Major Project**<br>*Improving Capabilities of Counter-terrorism Intelligence Work*<br>Grant No.: 17JZD034 |
+| Jan 2022 – Present | **NSFC General Program**<br>Research on Identification and Intervention Methods of Disordered Network Information Dissemination in Crisis Situations<br>Grant No.: 72174153 |
+| Dec 2023 – Present | **Major Project of National Social Science Fund of China**<br>*Resilient Social Intelligence Support and Decision-making under Uncertain Environments<br>Grant No.: 23&ZD230 |
+| Jan 2020 – Dec 2024 | **NSFC Innovation Research Group Project**<br>Information Resource Management<br>Grant No.: 71921002 |
+| Jan 2018 – Dec 2022 | **NSFC Major Project**<br>National Security Big Data Comprehensive Information Integration and Analysis Methods<br>Grant No.: 71790612 |
+| Sep 2019 – Dec 2020 | **Ministry of Education Philosophy and Social Sciences Major Project**<br>Improving Capabilities of Counter-terrorism Intelligence Work<br>Grant No.: 17JZD034 |
 </div>
 
 <div id="zh-grants" style="display: none;" markdown="block">
