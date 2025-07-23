@@ -24,7 +24,6 @@ nav_order: 7
 </button>
 
 <div id="en-grants" markdown="1">
-<h1>🎓 Research Grants</h1>
 
 ## 🎯 Principal Investigator
 
