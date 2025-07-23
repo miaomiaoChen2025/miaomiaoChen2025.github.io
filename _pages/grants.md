@@ -33,8 +33,6 @@ nav_order: 7
 
 <hr>
 
-<br>
-
 ## 🤝 Research Team Member
 
 | **Duration**       | **Details** |
