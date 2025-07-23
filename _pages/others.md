@@ -7,13 +7,25 @@ nav: true
 nav_order: 8
 ---
 
-## 📚 Other Academic Contributions
+---
 
-<button onclick="toggleLang()" style="float: right; margin-top: -40px;">🌐 Switch Language</button>
+<button onclick="toggleLang()" style="
+  background-color: var(--global-theme-color);
+  color: white;
+  font-weight: bold;
+  border: 2px solid var(--global-theme-color);
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+  margin-top: -40px;
+  float: right;
+">
+  🌐 Switch Language
+</button>
 
 <div id="english-version">
 
-### 🧾 Software Copyrights
+## 🧾 Software Copyrights
 
 <details open>
   <summary>📄 Registered Software</summary>
@@ -22,8 +34,8 @@ nav_order: 8
     <li><strong>2024</strong> — <em>Effectiveness Evaluation Platform for Government Social Media Information Release</em>, National Copyright Administration (Reg. No: <strong>2024SR1688175</strong>)</li>
   </ul>
 </details>
-
-### 🗣️ Invited Campus Talks
+---
+## 🗣️ Invited Campus Talks
 
 <details open>
   <summary>🏫 Academic Talks</summary>
@@ -40,7 +52,7 @@ nav_order: 8
 
 <div id="chinese-version" style="display: none;">
 
-### 🧾 软件著作权
+## 🧾 软件著作权
 
 <details open>
   <summary>📄 登记作品</summary>
@@ -49,8 +61,8 @@ nav_order: 8
     <li><strong>2024年</strong> — 政务新媒体信息发布有效性评估平台，国家版权局（著作号：<strong>2024SR1688175</strong>）</li>
   </ul>
 </details>
-
-### 🗣️ 校内报告
+---
+## 🗣️ 校内报告
 
 <details open>
   <summary>🏫 学术报告</summary>
