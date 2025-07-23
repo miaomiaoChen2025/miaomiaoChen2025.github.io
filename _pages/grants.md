@@ -29,7 +29,7 @@ nav_order: 7
 
 | **Duration**       | **Details** |
 |--------------------|-------------|
-| Jan 2025 – Present | **Fundamental Research Funds for the Central Universities**<br>Grant No.: 12625611<br>Funding: ¥100,000<br>Role: Principal Investigator |
+| Jan 2025 – Present | **Strategic Frontier Project under the Fundamental Research Funds for the Central Universities**<br>Grant No.: 12625611<br>Funding: ¥100,000<br>Role: Principal Investigator |
 
 <hr>
 
@@ -51,7 +51,7 @@ nav_order: 7
 
 | **时间**           | **项目内容** |
 |--------------------|--------------|
-| 2025年 – 至今       | **中央高校基本科研业务费专项资金资助**<br>项目编号：12625611<br>经费：10万元<br>负责人：陈苗苗 |
+| 2025年 – 至今       | **中央高校基本科研业务费国家战略前沿专项资助**<br>项目编号：12625611<br>经费：10万元<br>负责人：陈苗苗 |
 
 <hr>
 
