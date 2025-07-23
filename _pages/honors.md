@@ -2,6 +2,7 @@
 title: Honors & Awards
 layout: page
 permalink: /honors/
+description: A collection of various honors and awards received.
 nav: true
 nav_order: 6
 ---
