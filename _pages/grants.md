@@ -35,12 +35,12 @@ nav_order: 7
 
 ## 🤝 Research Team Member
 
-| Duration       | Details |
-|----------------|---------|
+| **Duration**       | **Details** |
+|--------------------|-------------|
 | Jan 2022 – Present | **NSFC General Program**<br>*Research on Identification and Intervention Methods of Disordered Network Information Dissemination in Crisis Situations*<br>Grant No.: 72174153 |
 | Dec 2023 – Present | **Major Project of National Social Science Fund of China**<br>*Resilient Social Intelligence Support and Decision-making under Uncertain Environments*<br>Grant No.: 23&ZD230 |
-| Sep 2019 – Present | **NSFC Innovation Research Group Project**<br>*Information Resource Management*<br>Grant No.: 71921002 |
-| Sep 2019 – Present | **NSFC Major Project**<br>*National Security Big Data Comprehensive Information Integration and Analysis Methods*<br>Grant No.: 71790612 |
+| Jan 2020 – Dec 2024 | **NSFC Innovation Research Group Project**<br>*Information Resource Management*<br>Grant No.: 71921002 |
+| Jan 2018 – Dec 2022 | **NSFC Major Project**<br>*National Security Big Data Comprehensive Information Integration and Analysis Methods*<br>Grant No.: 71790612 |
 | Sep 2019 – Dec 2020 | **Ministry of Education Philosophy and Social Sciences Major Project**<br>*Improving Capabilities of Counter-terrorism Intelligence Work*<br>Grant No.: 17JZD034 |
 </div>
 
@@ -60,8 +60,8 @@ nav_order: 7
 |--------------------|--------------|
 | 2022年1月 – 至今    | **国家自然科学基金面上项目**<br>危机情境下网络信息传播失序识别与干预方法研究<br>项目编号：72174153 |
 | 2023年12月 – 至今   | **国家社会科学基金重大项目**<br>不确定环境下韧性社会智能情报支持与决策研究<br>项目编号：23&ZD230 |
-| 2019年9月 – 至今    | **国家自然科学基金创新研究群体项目**<br>信息资源管理<br>项目编号：71921002 |
-| 2019年9月 – 至今    | **国家自然科学基金重大项目**<br>国家安全大数据综合信息集成与分析方法<br>项目编号：71790612 |
+| 2020年1月 – 2024年12月    | **国家自然科学基金创新研究群体项目**<br>信息资源管理<br>项目编号：71921002 |
+| 2018年1月 – 2022年12月    | **国家自然科学基金重大项目**<br>国家安全大数据综合信息集成与分析方法<br>项目编号：71790612 |
 | 2019年9月 – 2020年12月 | **教育部哲学社会科学研究重大课题攻关项目**<br>提高反恐怖主义情报信息工作能力对策研究<br>项目编号：17JZD034 |
 
 </div>
