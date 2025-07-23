@@ -23,7 +23,7 @@ nav_order: 7
   🌐 Switch Language
 </button>
 
-<div id="en-grants" markdown="1">
+<div id="en-grants" >
 
 ## 🎯 Principal Investigator
 
@@ -44,7 +44,7 @@ nav_order: 7
 | Sep 2019 – Dec 2020| **Ministry of Education Philosophy and Social Sciences Major Project**  <br> *Improving Capabilities of Counter-terrorism Intelligence Work* <br> Grant No.: 17JZD034 |
 </div>
 
-<div id="zh-grants" style="display: none;" markdown="1">
+<div id="zh-grants" style="display: none;" >
 
 ## 🎯 主持项目
 
