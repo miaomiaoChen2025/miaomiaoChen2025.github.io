@@ -35,6 +35,7 @@ nav_order: 8
   </ul>
 </details>
 ---
+---
 ## 🗣️ Invited Campus Talks
 
 <details open>
@@ -61,6 +62,7 @@ nav_order: 8
     <li><strong>2024年</strong> — 政务新媒体信息发布有效性评估平台，国家版权局（著作号：<strong>2024SR1688175</strong>）</li>
   </ul>
 </details>
+---
 ---
 ## 🗣️ 校内报告
 
