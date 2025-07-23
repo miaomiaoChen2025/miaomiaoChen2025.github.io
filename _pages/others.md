@@ -23,7 +23,7 @@ nav_order: 8
   🌐 Switch Language
 </button>
 
-<div id="english-version">
+<div id="english-version" markdown="1">
 
 ## 🧾 Software Copyrights
 
@@ -51,7 +51,7 @@ nav_order: 8
 
 </div>
 
-<div id="chinese-version" style="display: none;">
+<div id="chinese-version" style="display: none;" markdown="1">
 
 ## 🧾 软件著作权
 
@@ -71,7 +71,6 @@ nav_order: 8
   <ul>
     <li><strong>2023年8月</strong> — “一而再、再而三：探寻中国研究生数模竞赛获奖之道”<br>
     科创筑梦 随“信”远航 学科竞赛交流会系列讲座第二期，武汉</li>
-
     <li><strong>2021年12月</strong> — “学科竞赛与学术经验分享”<br>
     学术之星薪火相传，珞珈之行沿途相伴 学术经验交流论坛竞赛专场分享会，武汉</li>
   </ul>
