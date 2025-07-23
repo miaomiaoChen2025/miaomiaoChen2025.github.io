@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-honors-amp-awards",
           title: "Honors &amp; Awards",
-          description: "",
+          description: "A collection of various honors and awards received.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/honors/";
