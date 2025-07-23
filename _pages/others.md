@@ -36,10 +36,10 @@ nav_order: 8
 </details>
 
 ---
-## 🗣️ Invited Campus Talks
+## 🗣️ Invited Talks
 
 <details open>
-  <summary>🏫 Academic Talks</summary>
+  <summary>🏫 Campus Talks</summary>
   <ul>
     <li><strong>Aug 2023</strong> — “<em>Again and Again: Exploring the Secrets Behind Winning in the China Graduate Mathematical Contest in Modeling</em>”<br>
     Academic Competition Exchange Series (Lecture #2), Wuhan</li>
@@ -64,10 +64,10 @@ nav_order: 8
 </details>
 
 ---
-## 🗣️ 校内报告
+## 🗣️ 邀请报告
 
 <details open>
-  <summary>🏫 学术报告</summary>
+  <summary>🏫 校内报告</summary>
   <ul>
     <li><strong>2023年8月</strong> — “一而再、再而三：探寻中国研究生数模竞赛获奖之道”<br>
     科创筑梦 随“信”远航 学科竞赛交流会系列讲座第二期，武汉</li>
