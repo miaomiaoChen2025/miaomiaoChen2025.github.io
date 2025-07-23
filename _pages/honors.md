@@ -6,29 +6,22 @@ description: A collection of various honors and awards received.
 nav: true
 nav_order: 6
 ---
----
-<style>
-  .lang-toggle {
-    margin: 1em 0;
-    text-align: right;
-  }
-  .lang-toggle button {
-    padding: 6px 12px;
-    border: 2px solid var(--global-theme-color);
-    background-color: var(--global-theme-color);
-    color: white;
-    font-weight: bold;
-    border-radius: 6px;
-    cursor: pointer;
-  }
-  .lang-toggle button:hover {
-    opacity: 0.9;
-  }
-</style>
 
-<div class="lang-toggle">
-  <button onclick="toggleLang()">🌐 Switch Language</button>
-</div>
+---
+<button onclick="toggleLang()" style="
+  background-color: var(--global-theme-color);
+  color: white;
+  font-weight: bold;
+  border: 2px solid var(--global-theme-color);
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+  margin-top: -40px;
+  float: right;
+">
+  🌐 Switch Language
+</button>
+
 
 <div id="en-honors" markdown="1">
 
