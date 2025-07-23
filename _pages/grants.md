@@ -7,7 +7,31 @@ nav: true
 nav_order: 7
 ---
 
-# 🎓 Research Grants
+<style>
+  .lang-toggle {
+    margin: 1em 0;
+    text-align: right;
+  }
+  .lang-toggle button {
+    padding: 6px 12px;
+    border: 2px solid var(--global-theme-color);
+    background-color: var(--global-theme-color);
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .lang-toggle button:hover {
+    opacity: 0.9;
+  }
+</style>
+
+<div class="lang-toggle">
+  <button onclick="toggleLang()">🌐 Switch Language</button>
+</div>
+
+<div id="en-grants">
+<h1>🎓 Research Grants</h1>
 
 ## 🎯 Principal Investigator
 
@@ -26,10 +50,10 @@ nav_order: 7
 | Sep 2019 – Present | **NSFC Innovation Research Group Project**  <br> *Information Resource Management* <br> Grant No.: 71921002 |
 | Sep 2019 – Present | **NSFC Major Project**  <br> *National Security Big Data Comprehensive Information Integration and Analysis Methods* <br> Grant No.: 71790612 |
 | Sep 2019 – Dec 2020| **Ministry of Education Philosophy and Social Sciences Major Project**  <br> *Improving Capabilities of Counter-terrorism Intelligence Work* <br> Grant No.: 17JZD034 |
+</div>
 
----
-
-# 📚 科研项目
+<div id="zh-grants" style="display: none;">
+<h1>📚 科研项目</h1>
 
 ## 🎯 主持项目
 
@@ -48,4 +72,18 @@ nav_order: 7
 | 2019年9月 – 至今    | **国家自然科学基金创新研究群体项目**  <br> 信息资源管理  <br> 项目编号：71921002 |
 | 2019年9月 – 至今    | **国家自然科学基金重大项目**  <br> 国家安全大数据综合信息集成与分析方法  <br> 项目编号：71790612 |
 | 2019年9月 – 2020年12月 | **教育部哲学社会科学研究重大课题攻关项目**  <br> 提高反恐怖主义情报信息工作能力对策研究  <br> 项目编号：17JZD034 |
+</div>
 
+<script>
+  function toggleLang() {
+    const en = document.getElementById('en-grants');
+    const zh = document.getElementById('zh-grants');
+    if (en.style.display === 'none') {
+      en.style.display = 'block';
+      zh.style.display = 'none';
+    } else {
+      en.style.display = 'none';
+      zh.style.display = 'block';
+    }
+  }
+</script>
