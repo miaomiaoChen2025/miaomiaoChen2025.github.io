@@ -45,7 +45,6 @@ nav_order: 7
 </div>
 
 <div id="zh-grants" style="display: none;" markdown="1">
-<h1>📚 科研项目</h1>
 
 ## 🎯 主持项目
 
