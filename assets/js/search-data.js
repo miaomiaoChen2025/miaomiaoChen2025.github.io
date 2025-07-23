@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-grants",
           title: "Grants",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "List of research grants involving PI and team participation in national-level scientific projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/grants/";
