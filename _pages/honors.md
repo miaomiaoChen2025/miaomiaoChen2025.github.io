@@ -30,7 +30,7 @@ nav_order: 6
   <button onclick="toggleLang()">🌐 Switch Language</button>
 </div>
 
-<div id="en-honors">
+<div id="en-honors" markdown="1">
 
 ## 🏆 Academic and Competition Awards
 
@@ -74,7 +74,7 @@ nav_order: 6
 
 </div>
 
-<div id="zh-honors" style="display: none;">
+<div id="zh-honors" style="display: none;" markdown="1">
 
 ## 🏆 学术及竞赛获奖情况
 
