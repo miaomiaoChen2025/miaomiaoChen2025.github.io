@@ -33,6 +33,6 @@ She received both her Bachelor's and Ph.D. degrees in Management from the School
 
 If you are interested in collaboration or further information, feel free to contact me.<br>
 📬 **Email:**  
-- <span style="font-weight: bold; color: var(--global-theme-color);">[chenmiaomiao@jnu.edu.cn](mailto:chenmiaomiao@jnu.edu.cn) </span>) 
-- <span style="font-weight: bold; color: var(--global-theme-color);">[chenmiaomiao2020@foxmail.com](mailto:chenmiaomiao2020@foxmail.com) </span>) 
+- <span style="font-weight: bold; color: var(--global-theme-color);">[chenmiaomiao@jnu.edu.cn](mailto:chenmiaomiao@jnu.edu.cn) </span>
+- <span style="font-weight: bold; color: var(--global-theme-color);">[chenmiaomiao2020@foxmail.com](mailto:chenmiaomiao2020@foxmail.com) </span> 
 
